@@ -1,0 +1,9 @@
+{
+  "id": "git-logger",
+  "name": "Git Logger",
+  "author": "Diogo Martino",
+  "description": "Receives GitHub webhooks and posts the events into channels.",
+  "logo": "https://i.imgur.com/igtjVA7.png",
+  "sdkVersion": 2,
+  "version": "0.0.1"
+}
